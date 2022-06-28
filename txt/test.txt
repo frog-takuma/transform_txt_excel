@@ -1,0 +1,6 @@
+1,air,0.0,good
+2,bag,0.1,good
+3,cat,0.2,bad
+4,dog,0.3,bad
+5,egg,0.4,bad
+6,fish,0.5,good
